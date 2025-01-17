@@ -60,7 +60,7 @@ function Footer() {
             <h3 className="footer-title">Address</h3>
             <ul className="footer-links">
               <li className="footer-info">
-              www.aminprofessional.com
+              https://mdabdullahalaminkhan.vercel.app/
               </li>
               <li className="footer-info">9AM - 11PM</li>
             </ul>
@@ -111,7 +111,7 @@ function Footer() {
           />
         </div>
       </div>
-      <span className="footer-copy">© All Rights Reserved By https://www.aminprofessional.com/</span>
+      <span className="footer-copy">© All Rights Reserved By https://mdabdullahalaminkhan.vercel.app//</span>
     </footer>
     </>
   )
