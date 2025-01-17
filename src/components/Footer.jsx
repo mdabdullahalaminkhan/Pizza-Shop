@@ -111,7 +111,7 @@ function Footer() {
           />
         </div>
       </div>
-      <span className="footer-copy">© All Rights Reserved By https://mdabdullahalaminkhan.vercel.app//</span>
+      <span className="footer-copy">© All Rights Reserved By https://mdabdullahalaminkhan.vercel.app</span>
     </footer>
     </>
   )
